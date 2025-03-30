@@ -16,6 +16,7 @@ public class consequtiveOnes {
                 ans=0;
             }
         }
+
         return consecutiveOnes;
     }
 }
